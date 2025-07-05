@@ -1,0 +1,19 @@
+# Ignore composer vendor directory
+/vendor/
+
+# Ignore environment files
+.env
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
